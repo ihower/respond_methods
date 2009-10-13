@@ -1,9 +1,12 @@
-Respond_methods extract respond_to and respond_with methods from Inherited Resources.
+Respond_methods plugins extract respond_to and respond_with methods from Inherited Resources.
 
-I like Rails3 responder...
+I like Rails3 responder features...
 
 http://ryandaigle.com/articles/2009/8/6/what-s-new-in-edge-rails-cleaner-restful-controllers-w-respond_with
+
 http://ryandaigle.com/articles/2009/8/10/what-s-new-in-edge-rails-default-restful-rendering
+
+http://weblog.rubyonrails.org/2009/8/31/three-reasons-love-responder
 
 But I do not like other awesome features because...
 
